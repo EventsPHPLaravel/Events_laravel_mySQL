@@ -16,7 +16,6 @@ class EventController extends Controller
     public function index()
     {
     //
-        return "dfgdsf";
     }
 
     /**
@@ -38,8 +37,7 @@ class EventController extends Controller
     public function store(Request $request)
     {
         //
-        dd($request);
-        return "dfgfdg";
+
     }
 
     /**
